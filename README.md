@@ -28,7 +28,7 @@ Next we you need to include the jQuery library for the slider to work. Choose ei
 <!-- jQuery library served grom Google CDN -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- jQuery library supplied with Neat Slider -->
-<script src="jquery.min.js"></script>
+<script src="neat-slider/jquery.min.js"></script>
 ```
 
 ### Step 2: Create HTML markup
